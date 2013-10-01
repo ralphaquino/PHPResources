@@ -32,3 +32,16 @@ Day 3
 
 Day 4
 ------------
+1. [What are controllers](#)
+2. [What are models](#)
+3. [What are views](#)
+
+[Homework #4](#)
+
+Day 5
+------------
+1. [Working with helpers](#)
+2. [Working with libraries](#)
+3. [Advanced topics](#)
+
+[Exam](#)
